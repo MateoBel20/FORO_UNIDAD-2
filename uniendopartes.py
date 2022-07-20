@@ -3,6 +3,9 @@ from email import message
 from tkinter import ttk
 import pymongo
 from tkinter import *
+'''
+Se crea una 
+'''
 def Buscar():
     mensaje= Label(root, text='\n\ncargando resultados... ', fg='red')
     mensaje.pack()
